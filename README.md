@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elrashidy</h1>
 
 <h3 align="center">A passionate Mobile Developer and Competitive Programmer</h3>
-<p>
+
 - :trophy: 2x `ECPC` Finalist.
 - 🌱 I’m currently learning clean architecture.
 - 🌱 I’m currently learning Flutter
-<p>
 
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align ="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
