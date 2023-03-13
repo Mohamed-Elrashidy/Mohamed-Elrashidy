@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elrashidy</h1>
 
-<h3 align="center">A passionate Mobile Developer and Competitive Programmer</h3>
+<h3 align="center">A passionate Mobile Developer , Competitive Programmer, and Problem solving Instructor</h3>
 
 - :school: I'm a student in the Faculty of electornic engineering in the department of computer science and enginnering
 - :trophy: 2x `ECPC` Finalist.
@@ -33,7 +33,7 @@
 	<a href="https://wa.me/+201553122138"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/mohamed--elrashidy/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100004350933600"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	
+
 </p>
 
 
