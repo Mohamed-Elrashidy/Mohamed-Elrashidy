@@ -2,6 +2,7 @@
 
 <h3 align="center">A passionate Mobile Developer and Competitive Programmer</h3>
 - 🏫 I'm a student in the _Faculty of electornic engineering in the department of computer science and enginnering_
+
 - :trophy: 2x `ECPC` Finalist.
 - 🌱 I’m currently learning clean architecture.
 - 🌱 I’m currently learning Flutter
