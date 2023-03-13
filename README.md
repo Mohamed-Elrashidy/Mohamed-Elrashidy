@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elrashidy</h1>
 
 <h3 align="center">A passionate Mobile Developer and Competitive Programmer</h3>
+<p>
 - :trophy: 2x `ECPC` Finalist.
 - 🌱 I’m currently learning clean architecture.
 - 🌱 I’m currently learning Flutter
+<p>
 
   <h3 align="left">Languages and Tools:</h3>
 <p align ="center">
