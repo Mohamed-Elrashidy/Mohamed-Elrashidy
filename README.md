@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elrashidy</h1>
 
-<h3 align="center">A passionate Mobile Developer , Competitive Programmer, and Problem solving Instructor</h3>
+<h3 align="center">A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instructor</h3>
 
-- :school: I'm a student in the Faculty of electornic engineering in the department of computer science and enginnering
+- :school: I'm a student in the Faculty of Electronic Engineering in the Department of Computer Science and Engineering
 - :trophy: 2x `ECPC` Finalist.
-- 🌱 I’m currently learning clean architecture.
-- 🌱 I’m currently learning Flutter
+- 🌱 Ask me about flutter 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align ="center">
