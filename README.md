@@ -2,9 +2,12 @@
 
 <h3 align="center">A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instructor</h3>
 
-- :school: I'm a student in the Faculty of Electronic Engineering in the Department of Computer Science and Engineering
+
+- I’m learning Software Engineering and Mobile Application Development
+- 👨‍💻 My main stack is Flutter
+- :school: I graduated from the faculty of electronic engineering 
 - :trophy: 2x `ECPC` Finalist.
-- 🌱 Ask me about flutter 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align ="center">
