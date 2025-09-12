@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elrashidy</h1>
+<h1 align="center">Hi 👋, I'm Abdelwahab Elrashidy</h1>
 
 <h3 align="center">A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instructor</h3>
 
